@@ -1,0 +1,111 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/c9922a326968deb63ec04df3bfb6079574221ec961a806cf3c671a478b1173f7c5730f43151a58c696239ba0960658a49e51203d54a8b346417164_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1024px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  margin: 232px 155px 0 211px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 249px;
+  height: 249px;
+  background-image: url("images/26f6088b4c68068884c0d9282fccd94a.jpg");
+  background-position: 50% 50%;
+  margin: -191px auto 0 -38px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 40px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 2.25rem;
+  margin: 57px 16px 0 -16px;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 2.25rem;
+  margin: 85px 199px 0 167px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  font-size: 1.875rem;
+  border-style: solid;
+  margin: 41px auto 60px 397px;
+  padding: 23px 33px 24px 32px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 844px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    margin-right: 55px;
+    margin-left: 111px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.875rem;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 99px;
+    margin-left: 67px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 197px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 646px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 485px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 305px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-4 {
+    font-size: 1.5rem;
+  }
+}
